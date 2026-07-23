@@ -20,7 +20,7 @@
 
 ## Overview
 
-OneMira is dedicated to bridging autonomous AI systems with physical human environments. We research, build, and deploy embodied robotics, edge AI inference runtimes, native ambient applications, and spatial web experiences.
+OneMira is dedicated to bridging autonomous AI systems with physical human environments. We research, build, and deploy embodied robotics, ambient context memory engines, edge AI inference runtimes, and spatial web experiences.
 
 ---
 
@@ -29,15 +29,25 @@ OneMira is dedicated to bridging autonomous AI systems with physical human envir
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Embodied AI & Robotics</h3>
-      <p>Physical hardware integration, kinematics, and spatial perception systems.</p>
+      <h3>Context & Ambient Intelligence</h3>
+      <p>Core context engine, meeting memory, and native ambient interfaces.</p>
       <ul>
-        <li><strong><a href="https://github.com/onemira-space/miralamp">miralamp</a></strong>: Real-time interactive smart desk lamp with perception, intention, and security boundaries.</li>
-        <li><strong><a href="https://github.com/onemira-space/lamp-kinematics">lamp-kinematics</a></strong>: 5-DOF motion generation and inverse kinematics algorithms.</li>
-        <li><strong><a href="https://github.com/onemira-space/vla-robot-pi5">vla-robot-pi5</a></strong>: Desktop embodied intelligent manipulator arm.</li>
-        <li><strong><a href="https://github.com/onemira-space/matter-controller">matter-controller</a></strong>: Local Matter network IoT device controller.</li>
+        <li><strong><a href="https://github.com/onemira-space/mira-context">mira-context</a></strong>: Core context & meeting memory intelligence engine.</li>
+        <li><strong><a href="https://github.com/onemira-space/miramem-mac">miramem-mac</a></strong>: Native macOS client application.</li>
+        <li><strong><a href="https://github.com/onemira-space/ai-run-bar">ai-run-bar</a></strong>: Ambient agent status bar for power AI users.</li>
       </ul>
     </td>
+    <td width="50%" valign="top">
+      <h3>Embodied AI & Robotics</h3>
+      <p>Physical hardware integration, kinematics, and low-power motor control.</p>
+      <ul>
+        <li><strong><a href="https://github.com/onemira-space/miralamp-runtime">miralamp-runtime</a></strong> / <strong><a href="https://github.com/onemira-space/miralamp">miralamp</a></strong>: Real-time interactive smart desk robot with perception and motion control.</li>
+        <li><strong><a href="https://github.com/onemira-space/lamp-kinematics">lamp-kinematics</a></strong>: 5-DOF motion generation and inverse kinematics algorithms.</li>
+        <li><strong><a href="https://github.com/onemira-space/tmc2209-rs">tmc2209-rs</a></strong>: Low-power 2-phase stepper motor driver written in Rust.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>Edge Intelligence & LLM</h3>
       <p>High-efficiency LLM inference runtimes optimized for embedded NPU accelerators.</p>
@@ -45,27 +55,16 @@ OneMira is dedicated to bridging autonomous AI systems with physical human envir
         <li><strong><a href="https://github.com/onemira-space/mira-llm">mira-llm</a></strong>: Deeply optimized LLM runtime for Rockchip RK3588 and RK3576 platforms.</li>
         <li><strong><a href="https://github.com/onemira-space/onnx_to_rknn">onnx_to_rknn</a></strong>: Containerized toolchain for ONNX to RKNN model exporting.</li>
         <li><strong><a href="https://github.com/onemira-space/llm-go">llm-go</a></strong>: High-performance Go client for cloud and local model routing.</li>
-        <li><strong><a href="https://github.com/onemira-space/llm-python">llm-python</a></strong>: Python inference client integrated with Kokoro-TTS speech synthesis.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Desktop Applications & UX</h3>
-      <p>Native ambient user interfaces designed for continuous AI interaction.</p>
-      <ul>
-        <li><strong><a href="https://github.com/onemira-space/miramem-mac">miramem-mac</a></strong>: Native macOS client application.</li>
-        <li><strong><a href="https://github.com/onemira-space/ai-run-bar">ai-run-bar</a></strong>: Ambient agent status bar for power AI users.</li>
-        <li><strong><a href="https://github.com/onemira-space/onemira-updates">onemira-updates</a></strong>: Desktop application distribution center and Sparkle appcast feed.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Web, Storefront & 3D</h3>
-      <p>Modern e-commerce infrastructure, web spatial rendering, and product portals.</p>
+      <h3>Web, Storefront & Media</h3>
+      <p>Storefront infrastructure, programmatic media rendering, and spatial web graphics.</p>
       <ul>
         <li><strong><a href="https://github.com/onemira-space/shopify-hydrogen">shopify-hydrogen</a></strong>: OneMira official storefront built with Shopify Hydrogen framework.</li>
+        <li><strong><a href="https://github.com/onemira-space/onemira-remotion">onemira-remotion</a></strong>: Programmatic video generation and motion graphics rendering engine.</li>
         <li><strong><a href="https://github.com/onemira-space/onemira-threejs">onemira-threejs</a></strong>: Interactive 3D product visualizations and web graphics.</li>
-        <li><strong><a href="https://github.com/onemira-space/onemira-website">onemira-website</a></strong>: Corporate web portal and documentation engine.</li>
+        <li><strong><a href="https://github.com/onemira-space/onemira-updates">onemira-updates</a></strong>: Desktop application distribution center and Sparkle appcast feed.</li>
       </ul>
     </td>
   </tr>
@@ -76,13 +75,13 @@ OneMira is dedicated to bridging autonomous AI systems with physical human envir
 ## Technical Architecture
 
 ```
-[ Multimodal Sensors / Cameras ] ---> [ Edge RK3588/RK3576 NPU (mira-llm) ]
-                                                    |
-                                                    v
-[ Desktop Arm / 5-DOF Lamp ]  <--- [ Kinematics & Control (lamp-kinematics) ]
-                                                    |
-                                                    v
-[ Ambient Desktop Bar ]      <--- [ Native App & Memory (miramem-mac) ]
+[ Multimodal Sensors & Perception ] ---> [ Core Context Engine (mira-context) ]
+                                                       |
+                                                       v
+[ Edge NPU Accelerator (mira-llm) ] <--- [ Local Memory & State (miramem-mac) ]
+                                                       |
+                                                       v
+[ Desk Robot & Kinematics (tmc2209-rs) ] <--- [ Hardware Control Pipeline ]
 ```
 
 ---
