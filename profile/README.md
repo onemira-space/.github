@@ -1,15 +1,20 @@
 <div align="center">
 
-# OneMira
+  <br />
+  <img src="logo-om.png" alt="OneMira Logo" width="340" />
+  <br />
+  <br />
 
-### Bring Intelligence Into the Real World
+  <h3>Bring Intelligence Into the Real World</h3>
 
-[![Organization](https://img.shields.io/badge/Organization-OneMira-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onemira-space)
-[![Website](https://img.shields.io/badge/Website-onemira.com-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://onemira.com)
-[![Focus](https://img.shields.io/badge/Focus-Embodied_AI_%26_Edge_Robotics-008080?style=for-the-badge)](#core-engineering-pillars)
-[![Location](https://img.shields.io/badge/Location-China-181717?style=for-the-badge)](https://onemira.com)
+  <p>
+    <a href="https://github.com/onemira-space"><img src="https://img.shields.io/badge/Organization-OneMira-000000?style=for-the-badge&logo=github&logoColor=white" alt="Organization" /></a>
+    <a href="https://onemira.com"><img src="https://img.shields.io/badge/Website-onemira.com-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="#core-engineering-pillars"><img src="https://img.shields.io/badge/Focus-Embodied_AI_%26_Edge_Robotics-008080?style=for-the-badge" alt="Focus" /></a>
+    <a href="https://onemira.com"><img src="https://img.shields.io/badge/Location-China-181717?style=for-the-badge" alt="Location" /></a>
+  </p>
 
----
+  <br />
 
 </div>
 
