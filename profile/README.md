@@ -1,93 +1,97 @@
 <div align="center">
 
   <br />
-  <img src="logo-om.png" alt="OneMira Logo" width="340" />
+  <a href="https://onemira.com/products/c1">
+    <img src="logo-om.png" alt="OneMira AI" width="320" />
+  </a>
   <br />
   <br />
 
-  <h3>Bring Intelligence Into the Real World</h3>
+  <h3>OneMira C1 — Standalone AI Voice Recorder ($99, $0/mo)</h3>
+  <p><strong>✨ Local AI · Works Standalone · 🗣️ Speaker ID · Zero Cloud Subscription</strong></p>
 
   <p>
-    <a href="https://github.com/onemira-space"><img src="https://img.shields.io/badge/Organization-OneMira-000000?style=for-the-badge&logo=github&logoColor=white" alt="Organization" /></a>
-    <a href="https://onemira.com"><img src="https://img.shields.io/badge/Website-onemira.com-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <a href="#core-engineering-pillars"><img src="https://img.shields.io/badge/Focus-Embodied_AI_%26_Edge_Robotics-008080?style=for-the-badge" alt="Focus" /></a>
-    <a href="https://onemira.com"><img src="https://img.shields.io/badge/Location-China-181717?style=for-the-badge" alt="Location" /></a>
+    <a href="https://onemira.com/products/c1"><img src="https://img.shields.io/badge/Official_Store-OneMira_C1_(%2499)-0052CC?style=for-the-badge&logo=shopify&logoColor=white" alt="OneMira C1 Official Store" /></a>
+    <a href="https://onemira.com/docs/mcp-integration"><img src="https://img.shields.io/badge/MCP_%26_CLI-Cursor_%7C_Claude_%7C_Obsidian-008080?style=for-the-badge" alt="MCP & CLI Docs" /></a>
+    <a href="https://onemira.com/ai-voice-recorder-without-subscription"><img src="https://img.shields.io/badge/Subscription-%240%2Fmonth_Forever-2ea44f?style=for-the-badge" alt="Zero Subscription" /></a>
+    <a href="https://www.producthunt.com/products/onemira-c1"><img src="https://img.shields.io/badge/Product_Hunt-OneMira_AI-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt" /></a>
   </p>
-
-  <br />
 
 </div>
 
-## Overview
+---
 
-OneMira is dedicated to bridging autonomous AI systems with physical human environments. We research, build, and deploy embodied robotics, ambient context memory engines, edge AI inference runtimes, and spatial web experiences.
+## Why Builders Choose [OneMira C1](https://onemira.com/products/c1)
+
+**[OneMira C1](https://onemira.com/products/c1)** is an 85 g sandblasted aluminum, subscription-free AI voice recorder and local context system. Press once to capture in-person meetings, interviews, lectures, or supported Zoom, Microsoft Teams, and Google Meet calls—even while wearing AirPods or Bluetooth headphones, with **no awkward meeting bots** and **$0/month recurring fees**.
+
+<p align="center">
+  <a href="https://onemira.com/products/c1">
+    <img src="https://cdn.shopify.com/s/files/1/0822/6897/9444/files/onemira-c1-pdp-001_0c685067-f806-4ba2-8c5d-2717ce2097a4.jpg" alt="OneMira C1 Standalone AI Voice Recorder" width="840" />
+  </a>
+</p>
+
+### The 4 Core Pillars
+
+1. **✨ Local AI**: Clear summaries, decisions, mind maps, and action items generated locally on macOS 12+ and Windows 10/11 (64-bit) across 99 languages—or connect your own API key (OpenAI, Anthropic, Gemini, DeepSeek, Qwen).
+2. **Works Standalone**: Records independently with one press (up to 30 hours continuous recording on a 1250mAh battery, 32 GB onboard storage, physical rotating turntable recording cue); no active phone or computer connection required while recording.
+3. **🗣️ Speaker ID**: Automatically separates and labels every speaker in meetings, interviews, and calls.
+4. **Zero Cloud Subscription**: Confidential conversations stay private on your machine in open **Google Native OKF Markdown** (`.md`) and optional stereo `.wav`, with **$0/month fees and no 300-minute monthly cap**.
+
+<p align="center">
+  <a href="https://onemira.com/products/c1">
+    <img src="https://cdn.shopify.com/s/files/1/0822/6897/9444/files/c1-pdp-01-realtime-wiki.jpg" alt="OneMira C1 Real-Time Local Transcription & OKF Markdown Wiki" width="840" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://onemira.com/products/c1">
+    <img src="https://cdn.shopify.com/s/files/1/0822/6897/9444/files/c1-pdp-07-no-subscriptions-ever_0d5de095-ae1f-4fe7-86e6-506159690576.jpg" alt="OneMira C1 Zero Subscriptions Forever vs Cloud Recorders" width="840" />
+  </a>
+</p>
 
 ---
 
-## Core Engineering Pillars
+## 7-Layer Local Context & MCP Architecture (Google OKF Standard)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Context & Ambient Intelligence</h3>
-      <p>Core context engine, meeting memory, and native ambient interfaces.</p>
-      <ul>
-        <li><strong><a href="https://github.com/onemira-space/mira-context">mira-context</a></strong>: Core context & meeting memory intelligence engine.</li>
-        <li><strong><a href="https://github.com/onemira-space/miramem-mac">miramem-mac</a></strong>: Native macOS client application.</li>
-        <li><strong><a href="https://github.com/onemira-space/ai-run-bar">ai-run-bar</a></strong>: Ambient agent status bar for power AI users.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Embodied AI & Robotics</h3>
-      <p>Physical hardware integration, kinematics, and low-power motor control.</p>
-      <ul>
-        <li><strong><a href="https://github.com/onemira-space/miralamp-runtime">miralamp-runtime</a></strong> / <strong><a href="https://github.com/onemira-space/miralamp">miralamp</a></strong>: Real-time interactive smart desk robot with perception and motion control.</li>
-        <li><strong><a href="https://github.com/onemira-space/lamp-kinematics">lamp-kinematics</a></strong>: 5-DOF motion generation and inverse kinematics algorithms.</li>
-        <li><strong><a href="https://github.com/onemira-space/tmc2209-rs">tmc2209-rs</a></strong>: Low-power 2-phase stepper motor driver written in Rust.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Edge Intelligence & LLM</h3>
-      <p>High-efficiency LLM inference runtimes optimized for embedded NPU accelerators.</p>
-      <ul>
-        <li><strong><a href="https://github.com/onemira-space/mira-llm">mira-llm</a></strong>: Deeply optimized LLM runtime for Rockchip RK3588 and RK3576 platforms.</li>
-        <li><strong><a href="https://github.com/onemira-space/onnx_to_rknn">onnx_to_rknn</a></strong>: Containerized toolchain for ONNX to RKNN model exporting.</li>
-        <li><strong><a href="https://github.com/onemira-space/llm-go">llm-go</a></strong>: High-performance Go client for cloud and local model routing.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Web, Storefront & Media</h3>
-      <p>Storefront infrastructure, programmatic media rendering, and spatial web graphics.</p>
-      <ul>
-        <li><strong><a href="https://github.com/onemira-space/shopify-hydrogen">shopify-hydrogen</a></strong>: OneMira official storefront built with Shopify Hydrogen framework.</li>
-        <li><strong><a href="https://github.com/onemira-space/onemira-remotion">onemira-remotion</a></strong>: Programmatic video generation and motion graphics rendering engine.</li>
-        <li><strong><a href="https://github.com/onemira-space/onemira-threejs">onemira-threejs</a></strong>: Interactive 3D product visualizations and web graphics.</li>
-        <li><strong><a href="https://github.com/onemira-space/onemira-updates">onemira-updates</a></strong>: Desktop application distribution center and Sparkle appcast feed.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Layer | Component | Responsibility |
+| :--- | :--- | :--- |
+| **1. Hardware Capture** | **[OneMira C1](https://onemira.com/products/c1)** | Single press to capture; silent turntable rotation cue; dual MEMS mics (~5 m pickup); 30-hr battery. |
+| **2. Local Context Engine** | **[OneMira Desktop](https://onemira.com/download)** | Real-time local transcription (99 languages), Speaker ID, user-controlled original audio retention, and built-in local LLM generation. |
+| **3. CLI Interface** | **[Mira CLI](https://onemira.com/docs/mcp-integration/cli-guide)** | Command-line search, read, patch, and workflow execution over local transcripts and Wiki. |
+| **4. MCP Server** | **[OneMira MCP](https://onemira.com/docs/mcp-integration)** | Standardized Model Context Protocol server for Cursor, Claude Desktop, Claude Code, and Windsurf. |
+| **5. Agent Workspace** | **ChatGPT / Claude / Cursor / Obsidian** | Use built-in offline AI, BYOK API keys, or connect your existing AI coding/writing agent without paying a second subscription. |
+| **6. Compounding Memory** | **[Local OKF Wiki](https://onemira.com/docs/daily-use/local-wiki)** | Structured Markdown knowledge base with YAML frontmatter and deterministic wikilinks across meetings, people, and projects. |
+| **7. Deliverables** | **Minutes, Decisions & Action Items** | Ready-to-use meeting minutes, follow-ups, mind maps, and cross-meeting project tracking. |
 
 ---
 
-## Technical Architecture
+## Head-to-Head Recorder Comparisons & Buying Guides
 
-```
-[ Multimodal Sensors & Perception ] ---> [ Core Context Engine (mira-context) ]
-                                                       |
-                                                       v
-[ Edge NPU Accelerator (mira-llm) ] <--- [ Local Memory & State (miramem-mac) ]
-                                                       |
-                                                       v
-[ Desk Robot & Kinematics (tmc2209-rs) ] <--- [ Hardware Control Pipeline ]
-```
+- **[OneMira C1 Official Product Page ($99 USD, Free Standard Shipping in US, KR, UK, DE, FR, IT, ES, NL, CA, AU)](https://onemira.com/products/c1)**
+- **[AI Voice Recorder Without Subscription: 1–3 Year Total Cost Guide](https://onemira.com/ai-voice-recorder-without-subscription)**
+- **[Record Zoom, Teams & Google Meet Without a Bot (AirPods & Headphones Supported)](https://onemira.com/meeting-recorder-without-a-bot)**
+- **[What Is an Agent Memory Device?](https://onemira.com/agent-memory-device)**
+- **[All 2026 AI Voice Recorder Comparisons](https://onemira.com/compare)**:
+  - [OneMira C1 vs. Plaud Note](https://onemira.com/compare/plaud-note)
+  - [OneMira C1 vs. Plaud Note Pro](https://onemira.com/compare/plaud-note-pro)
+  - [OneMira C1 vs. Plaud NotePin](https://onemira.com/compare/plaud-notepin)
+  - [HeyPocket (Pocket AI) Alternative: OneMira C1 vs. HeyPocket](https://onemira.com/compare/heypocket)
+  - [Omi Alternative: OneMira C1 vs. Omi AI Pendant](https://onemira.com/compare/omi)
+  - [OneMira C1 vs. HiDock P1](https://onemira.com/compare/hidock-p1)
+  - [Limitless Pendant Alternative: OneMira C1](https://onemira.com/compare/limitless)
+  - [OneMira C1 vs. Amazon Bee Frontier & Eclipse](https://onemira.com/compare/bee-frontier)
 
 ---
 
-## Contact & Information
+## Official Developer & Community Channels
 
-- **Website**: [onemira.com](https://onemira.com)
-- **Contact Email**: [pengjunhao@onemira.com](mailto:pengjunhao@onemira.com)
-- **Organization GitHub**: [github.com/onemira-space](https://github.com/onemira-space)
+- **Official Storefront**: [onemira.com/products/c1](https://onemira.com/products/c1)
+- **Desktop App Downloads (macOS & Windows)**: [onemira.com/download](https://onemira.com/download) · [onemira-space/onemira-updates](https://github.com/onemira-space/onemira-updates)
+- **Developer Documentation (MCP & CLI)**: [onemira.com/docs/mcp-integration](https://onemira.com/docs/mcp-integration)
+- **Product Hunt**: [OneMira AI on Product Hunt](https://www.producthunt.com/products/onemira-c1)
+- **DEV Community Engineering Blog**: [dev.to/onemira](https://dev.to/onemira)
+- **HackMD Documentation Hub**: [hackmd.io/@onemira/onemira-c1-documentation-hub](https://hackmd.io/@onemira/onemira-c1-documentation-hub)
+- **Glama MCP Server Registry**: [glama.ai/mcp/servers/rootpjh/onemira](https://glama.ai/mcp/servers/rootpjh/onemira)
+- **YouTube**: [youtube.com/@OneMira](https://www.youtube.com/@OneMira)
+- **Customer Support**: [dtc@onemira.com](mailto:dtc@onemira.com)
