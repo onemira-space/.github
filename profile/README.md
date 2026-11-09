@@ -90,9 +90,9 @@
 - **Desktop App Downloads (macOS & Windows)**: [onemira.com/download](https://onemira.com/download) · [onemira-space/onemira-updates](https://github.com/onemira-space/onemira-updates)
 - **Developer Documentation (MCP & CLI)**: [onemira.com/docs/mcp-integration](https://onemira.com/docs/mcp-integration)
 - **Product Hunt**: [OneMira AI on Product Hunt](https://www.producthunt.com/products/onemira-c1)
-- **DEV Community Engineering Blog**: [dev.to/onemira](https://dev.to/onemira)
+- **Hashnode Engineering Blog**: [hashnode.com/@onemira](https://hashnode.com/@onemira)
 - **HackMD Documentation Hub**: [hackmd.io/@onemira/onemira-c1-documentation-hub](https://hackmd.io/@onemira/onemira-c1-documentation-hub)
-- **Glama MCP Server Registry**: [glama.ai/mcp/servers/rootpjh/onemira](https://glama.ai/mcp/servers/rootpjh/onemira)
+- **Glama MCP Server Registry**: [glama.ai/mcp/servers/onemira-space/onemira-mcp](https://glama.ai/mcp/servers/onemira-space/onemira-mcp)
 - **YouTube**: [youtube.com/@OneMira](https://www.youtube.com/@OneMira)
 - **Customer Support**: [dtc@onemira.com](mailto:dtc@onemira.com)
 
@@ -101,8 +101,8 @@
 ## 🌍 International Buyer Guides & Multi-Brand Showdowns (2026)
 
 - **Multi-Brand Comparison (`Plaud vs Omi vs HeyPocket vs OneMira C1`)**: [GitHub Pages Hub](https://onemira-space.github.io/plaud-vs-omi-vs-heypocket-comparison.html) · [GitHub Gist](https://gist.github.com/rootpjh/22f0767fe3bf11a178737cfedf8256e0) · [Telegraph Guide](https://telegra.ph/Plaud-vs-Omi-vs-HeyPocket-vs-OneMira-C1-2026-AI-Voice-Recorder-Comparison-11-06)
-- 🇩🇪 **Deutsch (`KI-Diktiergerät mit Transkription ohne Abo`)**: [Offizieller Shop DE](https://onemira.com/de/products/c1) · [DE Hub](https://onemira-space.github.io/de/) · [DE Gist](https://gist.github.com/rootpjh/af047b0b9935d21928) · [DE Telegraph](https://telegra.ph/KI-Diktierger%C3%A4t-mit-Transkription-ohne-Abo-2026-OneMira-C1-vs-Plaud-Note-11-06)
+- 🇩🇪 **Deutsch (`KI-Diktiergerät mit Transkription ohne Abo`)**: [Offizieller Shop DE](https://onemira.com/de/products/c1) · [DE Hub](https://onemira-space.github.io/de/) · [DE Gist](https://gist.github.com/rootpjh/af047b0b9935d2192853b3df8741a19f) · [DE Telegraph](https://telegra.ph/KI-Diktierger%C3%A4t-mit-Transkription-ohne-Abo-2026-OneMira-C1-vs-Plaud-Note-11-06)
 - 🇫🇷 **Français (`Pocket ou Plaud vs OneMira C1 — Sans Abonnement`)**: [Boutique Officielle FR](https://onemira.com/fr/products/c1) · [FR Hub](https://onemira-space.github.io/fr/) · [FR Gist](https://gist.github.com/rootpjh/70a239e5da8c2ccad9d8990449634b47) · [FR Telegraph](https://telegra.ph/Pocket-ou-Plaud-vs-OneMira-C1--Comparatif-Enregistreur-Vocal-IA-Sans-Abonnement-11-06)
-- 🇮🇹 **Italiano (`Registratore Vocale IA Senza Abbonamento`)**: [Store Ufficiale IT](https://onemira.com/it/products/c1) · [IT Hub](https://onemira-space.github.io/it/) · [IT Gist](https://gist.github.com/rootpjh/2339fd3d4aa64bb67a) · [IT Telegraph](https://telegra.ph/Registratore-Vocale-IA-Senza-Abbonamento-0-mese-OneMira-C1-vs-Plaud-Note-11-06)
+- 🇮🇹 **Italiano (`Registratore Vocale IA Senza Abbonamento`)**: [Store Ufficiale IT](https://onemira.com/it/products/c1) · [IT Hub](https://onemira-space.github.io/it/) · [IT Gist](https://gist.github.com/rootpjh/2339fd3d4aa64bb67a15b963543d3a7c) · [IT Telegraph](https://telegra.ph/Registratore-Vocale-IA-Senza-Abbonamento-0-mese-OneMira-C1-vs-Plaud-Note-11-06)
 - 🇪🇸 **Español (`Grabadora de Voz IA Sin Suscripción`)**: [Tienda Oficial ES](https://onemira.com/es/products/c1) · [ES Hub](https://onemira-space.github.io/es/) · [ES Gist](https://gist.github.com/rootpjh/8da4d59468161baba8e15ba074bcd9d8)
 - 🇰🇷 **한국어 (`월 구독료 없는 로컬 AI 보이스 레코더`)**: [한국 공식 스토어](https://onemira.com/ko/products/c1) · [KO Hub](https://onemira-space.github.io/ko/) · [KO Gist](https://gist.github.com/rootpjh/bcc34e5a5b8eb53422ce107bb1b8d68e)
