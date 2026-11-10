@@ -107,7 +107,7 @@
 - 🇫🇷 **Français (`Pocket ou Plaud vs OneMira C1 — Sans Abonnement`)**: [Boutique Officielle FR](https://onemira.com/fr/products/c1) · [FR Hub](https://onemira-space.github.io/fr/) · [FR Gist](https://gist.github.com/rootpjh/70a239e5da8c2ccad9d8990449634b47) · [FR Telegraph](https://telegra.ph/Pocket-ou-Plaud-vs-OneMira-C1--Comparatif-Enregistreur-Vocal-IA-Sans-Abonnement-11-06)
 - 🇮🇹 **Italiano (`Registratore Vocale IA Senza Abbonamento`)**: [Store Ufficiale IT](https://onemira.com/it/products/c1) · [IT Hub](https://onemira-space.github.io/it/) · [IT Gist](https://gist.github.com/rootpjh/2339fd3d4aa64bb67a15b963543d3a7c) · [IT Telegraph](https://telegra.ph/Registratore-Vocale-IA-Senza-Abbonamento-0-mese-OneMira-C1-vs-Plaud-Note-11-06)
 - 🇪🇸 **Español (`Grabadora de Voz IA Sin Suscripción`)**: [Tienda Oficial ES](https://onemira.com/es/products/c1) · [ES Hub](https://onemira-space.github.io/es/) · [ES Gist](https://gist.github.com/rootpjh/8da4d59468161baba8e15ba074bcd9d8)
-- 🇵🇹 **Português (`Gravador de Voz IA Sem Subscrição`)**: [Loja Oficial PT](https://onemira.com/pt-pt/products/c1) · [PT Hub](https://onemira-space.github.io/pt/)
+- 🇵🇹 **Português (`Gravador de Voz IA Sem Subscrição`)**: [Loja Oficial PT](https://onemira.com/pt/products/c1) · [PT Hub](https://onemira-space.github.io/pt/)
 - 🇰🇷 **한국어 (`월 구독료 없는 로컬 AI 보이스 레코더`)**: [한국 공식 스토어](https://onemira.com/ko/products/c1) · [KO Hub](https://onemira-space.github.io/ko/) · [KO Gist](https://gist.github.com/rootpjh/bcc34e5a5b8eb53422ce107bb1b8d68e)
 
 ---
