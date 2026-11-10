@@ -89,7 +89,7 @@
 ## Official Developer, Dataset & Community Channels
 
 - **Official Storefront**: [onemira.com/products/c1](https://onemira.com/products/c1)
-- **Open 2026 Benchmark Dataset (CC-BY-4.0)**: [Hugging Face Dataset](https://huggingface.co/datasets/onemira/ai-voice-recorder-benchmark-2026) · [CSV](https://onemira-space.github.io/datasets/ai-voice-recorder-benchmark-2026.csv) · [JSON](https://onemira-space.github.io/datasets/ai-voice-recorder-benchmark-2026.json) · [JSONL](https://onemira-space.github.io/datasets/ai-voice-recorder-benchmark-2026.jsonl)
+- **Open 2026 Benchmark Dataset (CC-BY-4.0)**: [Hugging Face Dataset](https://huggingface.co/datasets/onemira/ai-voice-recorder-without-subscription-2026) · [CSV](https://onemira-space.github.io/data/ai-voice-recorder-benchmark-2026.csv) · [JSON](https://onemira-space.github.io/data/ai-voice-recorder-benchmark-2026.json) · [JSONL](https://onemira-space.github.io/data/ai-voice-recorder-benchmark-2026.jsonl)
 - **Desktop App Downloads (macOS & Windows)**: [onemira.com/download](https://onemira.com/download) · [onemira-space/onemira-updates](https://github.com/onemira-space/onemira-updates)
 - **Developer Documentation (MCP & CLI)**: [onemira.com/docs/mcp-integration](https://onemira.com/docs/mcp-integration) · [onemira-space/onemira-mcp](https://github.com/onemira-space/onemira-mcp)
 - **Glama MCP Server Registry**: [glama.ai/mcp/servers/onemira-space/onemira-mcp](https://glama.ai/mcp/servers/onemira-space/onemira-mcp)
