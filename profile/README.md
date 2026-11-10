@@ -128,3 +128,5 @@
 | Anker Soundcore Work | $159.99 | 300 min/mo Starter cap | Paid Pro tiers | $160+ | 10 g coin wearable + case | Mobile cloud app |
 | Omi AI | $89 | Phone-paired tier | $16/mo Unlimited | $89 – $665 | Requires phone companion stream | Open APIs / cloud plugins |
 | Sony Voice Recorder + MacWhisper | ~$90 + ~$69 | Manual USB file transfer | $0/mo | ~$159 | No headphone call sync | Manual transcription only (no auto-Wiki or MCP) |
+
+- **CERN Zenodo Technical Report (DOI `10.5281/zenodo.23794115`)**: [https://zenodo.org/records/23794115](https://zenodo.org/records/23794115)
