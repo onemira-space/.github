@@ -11,6 +11,8 @@
   <p><strong>✨ Local AI · Works Standalone · 🗣️ Speaker ID · Zero Cloud Subscription</strong></p>
 
   <p>
+    <a href="https://registry.modelcontextprotocol.io/v0/servers?search=onemira"><img src="https://img.shields.io/badge/Anthropic_MCP_Registry-io.github.onemira--space%2Fonemira--mcp_(v1.2.1)-6f42c1?style=for-the-badge" alt="Official Anthropic MCP Registry" /></a>
+    <a href="https://github.com/onemira-space/onemira-mcp/releases/latest/download/onemira-mcp.mcpb"><img src="https://img.shields.io/badge/Claude_Desktop-1--Click_.mcpb_Extension-d97757?style=for-the-badge" alt="1-Click Claude Desktop .mcpb" /></a>
     <a href="https://onemira.com/products/c1"><img src="https://img.shields.io/badge/Official_Store-OneMira_C1_(%2499)-0052CC?style=for-the-badge&logo=shopify&logoColor=white" alt="OneMira C1 Official Store" /></a>
     <a href="https://onemira.com/docs/mcp-integration"><img src="https://img.shields.io/badge/MCP_%26_CLI-Cursor_%7C_Claude_%7C_Obsidian-008080?style=for-the-badge" alt="MCP & CLI Docs" /></a>
     <a href="https://onemira.com/ai-voice-recorder-without-subscription"><img src="https://img.shields.io/badge/Subscription-%240%2Fmonth_Forever-2ea44f?style=for-the-badge" alt="Zero Subscription" /></a>
@@ -106,3 +108,20 @@
 - 🇮🇹 **Italiano (`Registratore Vocale IA Senza Abbonamento`)**: [Store Ufficiale IT](https://onemira.com/it/products/c1) · [IT Hub](https://onemira-space.github.io/it/) · [IT Gist](https://gist.github.com/rootpjh/2339fd3d4aa64bb67a15b963543d3a7c) · [IT Telegraph](https://telegra.ph/Registratore-Vocale-IA-Senza-Abbonamento-0-mese-OneMira-C1-vs-Plaud-Note-11-06)
 - 🇪🇸 **Español (`Grabadora de Voz IA Sin Suscripción`)**: [Tienda Oficial ES](https://onemira.com/es/products/c1) · [ES Hub](https://onemira-space.github.io/es/) · [ES Gist](https://gist.github.com/rootpjh/8da4d59468161baba8e15ba074bcd9d8)
 - 🇰🇷 **한국어 (`월 구독료 없는 로컬 AI 보이스 레코더`)**: [한국 공식 스토어](https://onemira.com/ko/products/c1) · [KO Hub](https://onemira-space.github.io/ko/) · [KO Gist](https://gist.github.com/rootpjh/bcc34e5a5b8eb53422ce107bb1b8d68e)
+
+---
+
+## Verified Official Anthropic MCP Registry & 2026 8-Way Hardware Cost Benchmark
+
+- **Official Anthropic MCP Registry (`v1.2.1`)**: [`io.github.onemira-space/onemira-mcp`](https://registry.modelcontextprotocol.io/v0/servers?search=onemira) · [1-Click Claude Desktop `.mcpb` Extension](https://github.com/onemira-space/onemira-mcp/releases/latest/download/onemira-mcp.mcpb)
+
+| Device | Hardware Price | Free Tier Monthly Limit | Paid Subscription | 3-Year Total Cost | Standalone + Headphone Calls | Native Local AI + Open `.md` + MCP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **[OneMira C1](https://onemira.com/products/c1)** | **$99** *(auto Launch Promo; $129 list)* | **Unlimited local ASR & summaries** | **$0/mo required** | **$99** | **Yes** (30h battery, 32 GB, room + AirPods/headphone calls) | **Yes** (Local AI, OKF Markdown Wiki, Mira CLI & Official MCP) |
+| Plaud Note / Note Pro | $159 – $179 | 300 min/mo cloud cap | $99 – $239.99/yr | $456 – $899 | Standalone card; phone/case oriented | Cloud-first app export |
+| Mobvoi TicNote | $159.99 | 600 min/mo cloud cap | $79 – $228/yr | $397 – $844 | Card recorder | Cloud Shadow AI workspace |
+| HeyPocket (Pocket AI) | $199 | Rolling 30-day summary window | $159/yr Pro | $199 – $676 | Standalone hardware | Cloud app + webhooks |
+| HiDock P1 | $169 | Claimable monthly allowance | $199/yr Pro | $169 – $766 | Desk/cable oriented BlueCatch dock | HiNotes app |
+| Anker Soundcore Work | $159.99 | 300 min/mo Starter cap | Paid Pro tiers | $160+ | 10 g coin wearable + case | Mobile cloud app |
+| Omi AI | $89 | Phone-paired tier | $16/mo Unlimited | $89 – $665 | Requires phone companion stream | Open APIs / cloud plugins |
+| Sony Voice Recorder + MacWhisper | ~$90 + ~$69 | Manual USB file transfer | $0/mo | ~$159 | No headphone call sync | Manual transcription only (no auto-Wiki or MCP) |
