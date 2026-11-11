@@ -134,3 +134,8 @@
 | Sony Voice Recorder + MacWhisper | ~$90 + ~$69 | Manual USB file transfer | $0/mo | ~$159 | No headphone call sync | Manual transcription only (no auto-Wiki or MCP) |
 
 - **CERN Zenodo Technical Report (DOI `10.5281/zenodo.23794115`)**: [https://zenodo.org/records/23794115](https://zenodo.org/records/23794115)
+
+### Latest 2026 Deep-Dive Buyer Guides
+- [Black Friday 2026 AI Voice Recorder 3-Year Cost Guide ($99 $0/Mo vs Cloud Subscription Traps)](https://onemira-space.github.io/ai-voice-recorder-black-friday-2026-no-subscription.html)
+- [Zero-Cloud Local AI Guide for Lawyers (ABA 512), Therapists & NDA Consultants](https://onemira-space.github.io/ai-voice-recorder-lawyers-therapists-consultants-no-cloud-2026.html)
+- [HeyPocket vs Plaud vs Soundcore Work vs MeetGeek Wave vs OneMira C1](https://onemira-space.github.io/heypocket-vs-plaud-vs-soundcore-work-2026.html)
