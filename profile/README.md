@@ -7,14 +7,14 @@
   <br />
   <br />
 
-  <h3>OneMira C1 — Standalone AI Voice Recorder ($99, $0/mo)</h3>
+  <h3>OneMira C1 — Standalone AI Voice Recorder ($84 Early Black Friday, $0/mo)</h3>
   <p><strong>✨ Local AI · Works Standalone · 🗣️ Speaker ID · Zero Cloud Subscription</strong></p>
 
   <p>
     <a href="https://registry.modelcontextprotocol.io/v0/servers?search=onemira"><img src="https://img.shields.io/badge/Anthropic_MCP_Registry-io.github.onemira--space%2Fonemira--mcp_(v1.2.1)-6f42c1?style=for-the-badge" alt="Official Anthropic MCP Registry" /></a>
     <a href="https://glama.ai/mcp/servers/onemira-space/onemira-mcp"><img src="https://img.shields.io/badge/Glama_MCP-Official_%C2%B7_Speech_%26_Memory-0f766e?style=for-the-badge" alt="Glama MCP Server" /></a>
     <a href="https://github.com/onemira-space/onemira-mcp/releases/latest/download/onemira-mcp.mcpb"><img src="https://img.shields.io/badge/Claude_Desktop-1--Click_.mcpb_Extension-d97757?style=for-the-badge" alt="1-Click Claude Desktop .mcpb" /></a>
-    <a href="https://onemira.com/products/c1"><img src="https://img.shields.io/badge/Official_Store-OneMira_C1_(%2499)-0052CC?style=for-the-badge&logo=shopify&logoColor=white" alt="OneMira C1 Official Store" /></a>
+    <a href="https://onemira.com/products/c1"><img src="https://img.shields.io/badge/Official_Store-OneMira_C1_(%2484_Early_BF)-0052CC?style=for-the-badge&logo=shopify&logoColor=white" alt="OneMira C1 Official Store" /></a>
     <a href="https://onemira.com/products/c1#reviews"><img src="https://img.shields.io/badge/Verified_Reviews-4.9_%E2%98%85_(87_Buyers)-f59e0b?style=for-the-badge" alt="4.9 out of 5 stars from 87 verified buyers" /></a>
     <a href="https://onemira.com/ai-voice-recorder-without-subscription"><img src="https://img.shields.io/badge/Subscription-%240%2Fmonth_Forever-2ea44f?style=for-the-badge" alt="Zero Subscription" /></a>
   </p>
@@ -119,7 +119,7 @@
 
 | Device | Hardware Price | Free Tier Monthly Limit | Paid Subscription | 3-Year Total Cost | Standalone + Headphone Calls | Native Local AI + Open `.md` + MCP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[OneMira C1](https://onemira.com/products/c1)** | **$99** *(auto Launch Promo; $129 list)* | **Unlimited local ASR & summaries** | **$0/mo required** | **$99** | **Yes** (30h battery, 32 GB, room + AirPods/headphone calls) | **Yes** (Local AI, OKF Markdown Wiki, Mira CLI & Official MCP) |
+| **[OneMira C1](https://onemira.com/products/c1)** | **$84** *(auto Early Black Friday $45 off; $129 list)* | **Unlimited local ASR & summaries** | **$0/mo required** | **$84** | **Yes** (30h battery, 32 GB, room + AirPods/headphone calls) | **Yes** (Local AI, OKF Markdown Wiki, Mira CLI & Official MCP) |
 | Plaud Note / Note Pro | $159 – $179 | 300 min/mo cloud cap | $99 – $239.99/yr | $456 – $899 | Standalone card; phone/case oriented | Cloud-first app export |
 | Comulytic Note Pro | $189 | 300 min/mo Starter cap | Paid Pro / Unlimited | $189+ | Card recorder + OLED | Cloud app workflow |
 | SwitchBot AI MindClip | $99.99 – $139.99 | Trial / cloud quota | Cloud AI subscription | $100+ recurring | 18 g clip wearable | SwitchBot cloud app |
@@ -136,6 +136,6 @@
 - **CERN Zenodo Technical Report (DOI `10.5281/zenodo.23794115`)**: [https://zenodo.org/records/23794115](https://zenodo.org/records/23794115)
 
 ### Latest 2026 Deep-Dive Buyer Guides
-- [Black Friday 2026 AI Voice Recorder 3-Year Cost Guide ($99 $0/Mo vs Cloud Subscription Traps)](https://onemira-space.github.io/ai-voice-recorder-black-friday-2026-no-subscription.html)
+- [Black Friday 2026 AI Voice Recorder 3-Year Cost Guide ($84 $0/Mo vs Cloud Subscription Traps)](https://onemira-space.github.io/ai-voice-recorder-black-friday-2026-no-subscription.html)
 - [Zero-Cloud Local AI Guide for Lawyers (ABA 512), Therapists & NDA Consultants](https://onemira-space.github.io/ai-voice-recorder-lawyers-therapists-consultants-no-cloud-2026.html)
 - [HeyPocket vs Plaud vs Soundcore Work vs MeetGeek Wave vs OneMira C1](https://onemira-space.github.io/heypocket-vs-plaud-vs-soundcore-work-2026.html)
