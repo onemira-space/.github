@@ -127,7 +127,10 @@
 | HeyPocket (Pocket AI) | $199 | Rolling 30-day summary window | $159/yr Pro | $199 – $676 | Standalone hardware | Cloud app + webhooks |
 | HiDock P1 | $169 | Claimable monthly allowance | $199/yr Pro | $169 – $766 | Desk/cable oriented BlueCatch dock | HiNotes app |
 | Anker Soundcore Work | $159.99 | 300 min/mo Starter cap | Paid Pro tiers | $160+ | 10 g coin wearable + case | Mobile cloud app |
-| Omi AI | $89 | Phone-paired tier | $16/mo Unlimited | $89 – $665 | Requires phone companion stream | Open APIs / cloud plugins |
+| Notari N1 Pro | $129.99 ($189 list) | Standard cloud ASR; AI credits metered | ~$9.99 – $19.99/mo Plus/Pro | $130 – $850 | 4.4 mm MagSafe card | Cloud app (no offline LLM or MCP) |
+| Notta Memo Pro | $189 (Dec pre-order) | 600 cloud min/mo cap | ~$8.17 – $13.49/mo Pro | $189 – $675 | 0.95" card (Wi-Fi sync) | Cloud workspace |
+| Soulog Sense | $111.98 ($189.99 list) | Free ASR; 200 AI credits/mo cap | $9.99 – $19.99/mo Pro | $112 – $832 | 3.15 mm MagSafe card | Cloud Spaces + MCP |
+| Omi AI Pendant | $129 ($179 list) | Phone tier + 300 cloud min/mo | $19 – $29.99/mo ($269/yr) | $129 – $936 | 10–14h wearable pendant | Open APIs / MCP |
 | Sony Voice Recorder + MacWhisper | ~$90 + ~$69 | Manual USB file transfer | $0/mo | ~$159 | No headphone call sync | Manual transcription only (no auto-Wiki or MCP) |
 
 - **CERN Zenodo Technical Report (DOI `10.5281/zenodo.23794115`)**: [https://zenodo.org/records/23794115](https://zenodo.org/records/23794115)
