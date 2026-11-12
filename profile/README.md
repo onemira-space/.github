@@ -70,7 +70,7 @@
 
 ## Head-to-Head Recorder Comparisons & Buying Guides
 
-- **[OneMira C1 Official Product Page ($99 USD, Free Standard Shipping in US, KR, UK, DE, FR, IT, ES, NL, CA, AU)](https://onemira.com/products/c1)**
+- **[OneMira C1 Official Product Page ($84 USD, Free Standard Shipping in US, KR, UK, DE, FR, IT, ES, NL, CA, AU)](https://onemira.com/products/c1)**
 - **[AI Voice Recorder Without Subscription: 1–3 Year Total Cost Guide](https://onemira.com/ai-voice-recorder-without-subscription)**
 - **[Record Zoom, Teams & Google Meet Without a Bot (AirPods & Headphones Supported)](https://onemira.com/meeting-recorder-without-a-bot)**
 - **[What Is an Agent Memory Device?](https://onemira.com/agent-memory-device)**
