@@ -74,15 +74,15 @@
 - **[AI Voice Recorder Without Subscription: 1–3 Year Total Cost Guide](https://onemira.com/ai-voice-recorder-without-subscription)**
 - **[Record Zoom, Teams & Google Meet Without a Bot (AirPods & Headphones Supported)](https://onemira.com/meeting-recorder-without-a-bot)**
 - **[What Is an Agent Memory Device?](https://onemira.com/agent-memory-device)**
-- **[All 2026 AI Voice Recorder Comparisons](https://onemira.com/compare)**:
-  - [OneMira C1 vs. Plaud Note](https://onemira.com/compare/plaud-note) · [Plaud Note Pro](https://onemira.com/compare/plaud-note-pro) · [Plaud NotePin](https://onemira.com/compare/plaud-notepin)
-  - [HeyPocket (Pocket AI) Alternative: OneMira C1 vs. HeyPocket](https://onemira.com/compare/heypocket)
-  - [Comulytic Note Pro Alternative: OneMira C1 vs. Comulytic Note Pro](https://onemira.com/compare#more-recorders)
-  - [SwitchBot AI MindClip Alternative: OneMira C1 vs. SwitchBot AI MindClip](https://onemira.com/compare/switchbot-mindclip)
-  - [Mobvoi TicNote Alternative: OneMira C1 vs. Mobvoi TicNote](https://onemira.com/compare/ticnote)
-  - [Anker Soundcore Work Alternative: OneMira C1 vs. Soundcore Work](https://onemira.com/compare/soundcore-work)
-  - [Omi Alternative: OneMira C1 vs. Omi AI Pendant](https://onemira.com/compare/omi)
-  - [OneMira C1 vs. HiDock P1](https://onemira.com/compare/hidock-p1) · [Limitless Pendant](https://onemira.com/compare/limitless) · [Amazon Bee Frontier](https://onemira.com/compare/bee-frontier)
+- **[All 2026 AI Voice Recorder Comparisons](https://onemira.com/products/c1)**:
+  - [OneMira C1 vs. Plaud Note](https://onemira.com/products/c1) · [Plaud Note Pro](https://onemira.com/products/c1) · [Plaud NotePin](https://onemira.com/products/c1)
+  - [HeyPocket (Pocket AI) Alternative: OneMira C1 vs. HeyPocket](https://onemira.com/products/c1)
+  - [Comulytic Note Pro Alternative: OneMira C1 vs. Comulytic Note Pro](https://onemira.com/products/c1#more-recorders)
+  - [SwitchBot AI MindClip Alternative: OneMira C1 vs. SwitchBot AI MindClip](https://onemira.com/products/c1)
+  - [Mobvoi TicNote Alternative: OneMira C1 vs. Mobvoi TicNote](https://onemira.com/products/c1)
+  - [Anker Soundcore Work Alternative: OneMira C1 vs. Soundcore Work](https://onemira.com/products/c1)
+  - [Omi Alternative: OneMira C1 vs. Omi AI Pendant](https://onemira.com/products/c1)
+  - [OneMira C1 vs. HiDock P1](https://onemira.com/products/c1) · [Limitless Pendant](https://onemira.com/products/c1) · [Amazon Bee Frontier](https://onemira.com/products/c1)
 
 ---
 
