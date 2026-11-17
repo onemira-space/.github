@@ -173,3 +173,5 @@
 - [AI Voice Recorder for ADHD, Founders & Product Managers: Stay Present Without Note Pile-Up](https://onemira.com/blogs/ai-voice-recorder-for-adhd-founders-and-product-managers-no-subscription)
 
 - **[onemira-space/homebrew-tap](https://github.com/onemira-space/homebrew-tap)** — Official macOS & Linux Homebrew Tap (`brew tap onemira-space/tap && brew install okf-markdown meeting-minutes-md recorder-tco`) → [CLI & MCP Integration Guide](https://onemira.com/docs/mcp-integration/cli-guide)
+
+- **[transcript-to-okf](https://github.com/onemira-space/transcript-to-okf)** (`v1.0.0`, MIT): Offline CLI & ESM migrator turning Otter.ai, Plaud, HiNotes (HiDock), Notta, Teams/Zoom WebVTT & SRT exports into [Google OKF v0.2 Markdown for Obsidian & OneMira](https://onemira.com/blogs/ai-voice-recorder-for-obsidian-and-local-markdown) (`brew install onemira-space/tap/transcript-to-okf`).
