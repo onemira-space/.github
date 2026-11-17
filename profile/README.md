@@ -171,3 +171,5 @@
 - [Best AI Voice Recorder for College Lectures & Grad Seminars Without a Subscription](https://onemira.com/blogs/ai-voice-recorder-for-college-lectures-and-seminars-no-subscription)
 - [AI Voice Recorder for Journalists, Reporters & Field Interviews: Offline + Stereo WAV](https://onemira.com/blogs/ai-voice-recorder-for-journalists-podcasters-and-interviews-offline-wav)
 - [AI Voice Recorder for ADHD, Founders & Product Managers: Stay Present Without Note Pile-Up](https://onemira.com/blogs/ai-voice-recorder-for-adhd-founders-and-product-managers-no-subscription)
+
+- **[onemira-space/homebrew-tap](https://github.com/onemira-space/homebrew-tap)** — Official macOS & Linux Homebrew Tap (`brew tap onemira-space/tap && brew install okf-markdown meeting-minutes-md recorder-tco`) → [CLI & MCP Integration Guide](https://onemira.com/docs/mcp-integration/cli-guide)
