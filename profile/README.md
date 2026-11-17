@@ -27,6 +27,7 @@
 ## Open-Source Developer Tools & Open Benchmarks (MIT / CC-BY-4.0)
 
 - **[`okf-markdown` (OKF v0.2 Validator, Link Graph Builder & VTT/SRT CLI)](https://github.com/onemira-space/okf-markdown)** · [Docs](https://onemira-space.github.io/okf-markdown/) — Zero-dependency Node.js CLI (`npx github:onemira-space/okf-markdown`) and ESM library for validating Open Knowledge Format Markdown vaults, checking `[[wiki-links]]`, and converting `.vtt`/`.srt` transcripts for Obsidian, Claude MCP, Cursor, and [OneMira C1](https://onemira.com/products/c1).
+- **[meeting-minutes-md](https://github.com/onemira-space/meeting-minutes-md)** — Zero-dependency offline CLI & Agent Skill (`SKILL.md`) to format transcripts and pre-distributed agendas into editable OKF v0.2 Markdown meeting minutes across 7 languages (`EN/DE/FR/IT/ES/PT/KO`) · [Voice Note-Taking Guide](https://onemira.com/voice-recorder-for-note-taking)
 - **[`ai-voice-recorder-tco-dataset` (2026 Recorder Spec & 24-Month TCO CLI)](https://github.com/onemira-space/ai-voice-recorder-tco-dataset)** · [Live Table](https://onemira-space.github.io/ai-voice-recorder-tco-dataset/) — Open JSON/CSV dataset and CLI calculator (`npx github:onemira-space/ai-voice-recorder-tco-dataset --minutes 900 --months 24`) comparing hardware prices, monthly transcription minute caps, Local AI, and MCP across 14 AI voice recorders ([full storefront comparison](https://onemira.com/compare)).
 
 ## Why Builders Choose [OneMira C1](https://onemira.com/products/c1)
